@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "jest-cli": "^23.6.0",
-    "eslint": "^5.7.0",
+    "eslint": "^9.39.1",
     "mkdirp": "^0.5.1",
     "mocha": "^5.1.1",
     "nock": "^10.0.0",
